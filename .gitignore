@@ -1,0 +1,43 @@
+lip-sync-back/*.pkl
+lip-sync-back/*.jpg
+lip-sync-back/*.mp4
+lip-sync-back/*.pth
+lip-sync-back/*.pyc
+lip-sync-back/__pycache__
+lip-sync-back/*.h5
+lip-sync-back/*.avi
+lip-sync-back/*.wav
+lip-sync-back/filelists/*.txt
+lip-sync-back/evaluation/test_filelists/lr*.txt
+lip-sync-back/*.pyc
+lip-sync-back/*.mkv
+lip-sync-back/*.gif
+lip-sync-back/*.webm
+lip-sync-back/*.mp3
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+lip-sync-front/node_modules
+lip-sync-front/.pnp
+lip-sync-front/.pnp.js
+
+# testing
+lip-sync-front/coverage
+
+# production
+lip-sync-front/build
+
+# misc
+lip-sync-front/.DS_Store
+lip-sync-front/.env.local
+lip-sync-front/.env.development.local
+lip-sync-front/.env.test.local
+lip-sync-front/.env.production.local
+
+lip-sync-front/npm-debug.log*
+lip-sync-front/yarn-debug.log*
+lip-sync-front/yarn-error.log*
+
+# env
+lip-sync-front/.env

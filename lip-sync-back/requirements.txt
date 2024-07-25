@@ -1,0 +1,9 @@
+numpy
+librosa
+opencv-contrib-python
+opencv-python
+tqdm
+numba
+mediapipe
+https://raw.githubusercontent.com/AwaleSajil/ghc/master/ghc-1.0-py3-none-any.whl
+ffmpeg-python
